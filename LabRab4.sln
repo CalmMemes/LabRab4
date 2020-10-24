@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabRab4", "LabRab4.csproj", "{0403F4AC-07DF-4869-BFB4-7C25AB520C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0403F4AC-07DF-4869-BFB4-7C25AB520C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0403F4AC-07DF-4869-BFB4-7C25AB520C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0403F4AC-07DF-4869-BFB4-7C25AB520C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0403F4AC-07DF-4869-BFB4-7C25AB520C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A28E04A-7AFF-4C7E-A997-CAB5B16E5CB1}
+	EndGlobalSection
+EndGlobal
